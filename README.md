@@ -26,23 +26,23 @@ make
 
 **Mandelbrot**:
 
-![Mandelbrot](https://github.com/kmieshko/fractol/blob/master/examples/mandelbrot.png)
+<p align="center"><img src="https://github.com/kmieshko/fractol/blob/master/examples/mandelbrot.png" width=600></p>
 
 **Julia**:
 
-<img src="https://github.com/kmieshko/fractol/raw/master/examples/julia.gif">
+<p align="center"><img src="https://github.com/kmieshko/fractol/raw/master/examples/julia.gif" width=600></p>
 
 **Burning Sheep**:
 
-![Sheep](https://github.com/kmieshko/fractol/blob/master/examples/sheep.png)
+<p align="center"><img src="https://github.com/kmieshko/fractol/blob/master/examples/sheep.png" width=600></p>
 
 **Spider**:
 
-![Spider](https://github.com/kmieshko/fractol/blob/master/examples/spider.png)
+<p align="center"><img src="https://github.com/kmieshko/fractol/blob/master/examples/spider.png" width=600></p>
 
 **Newton**:
 
-![Newton](https://github.com/kmieshko/fractol/blob/master/examples/newton.png)
+<p align="center"><img src="https://github.com/kmieshko/fractol/blob/master/examples/newton.png" width=600></p>
 
 # Disclaimer
 
