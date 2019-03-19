@@ -19,20 +19,30 @@ This project is written for macOS (OS X High Sierra) using *MinilibX* graphic li
 git clone https://github.com/kmieshko/fractol.git
 cd fractol
 make
-./fractol [Mandelbrot, Julia, BurningSheep, Newton, Spyder - choose one]
+./fractol [Mandelbrot, Julia, Sheep, Newton, Spider - choose one]
 ```
 
 # Some examples
 
 **Mandelbrot**:
 
+![Mandelbrot](https://github.com/kmieshko/fractol/blob/master/examples/mandelbrot.png)
+
 **Julia**:
+
+<img src="https://github.com/kmieshko/fractol/raw/master/examples/julia.gif">
 
 **Burning Sheep**:
 
+![Sheep](https://github.com/kmieshko/fractol/blob/master/examples/sheep.png)
+
 **Spider**:
 
+![Spider](https://github.com/kmieshko/fractol/blob/master/examples/spider.png)
+
 **Newton**:
+
+![Newton](https://github.com/kmieshko/fractol/blob/master/examples/newton.png)
 
 # Disclaimer
 
